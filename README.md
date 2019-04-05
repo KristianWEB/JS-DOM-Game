@@ -4,4 +4,4 @@ However the code is done from scratch by me ( trying to apply JS skills from oth
 give you an idea how much you know! And yes I know classes, constructors, objects. The problem comes when YOU have to apply them
 which is a totally different story.
 
-### Important Lesson learned: When interacting with the DOM make sure you first express the problem using JS variables and then change the UI. Making mistakes like this type of code helped me improve a lot!
+### Important Lesson learned: ####When interacting with the DOM make sure you first express the problem using JS variables and then change the UI. Making mistakes like this type of code helped me improve a lot!
