@@ -5,4 +5,4 @@ give you an idea how much you know! And yes I know classes, constructors, object
 which is a totally different story.
 
 #### Important Lesson learned: 
-When interacting with the DOM make sure you first express the problem using JS variables and then change the UI. Making mistakes like this type of code helped me improve a lot!
+When interacting with the DOM make sure you first express the problem using JS variables and then change the UI which leads to better and more maintainable code. Making mistakes like this type of code helped me improve a lot!
